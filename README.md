@@ -10,4 +10,4 @@ cCreative2025에서 운영하는 앱·서비스의 법적 문서 모음.
 
 ---
 
-문의: [daehyun.kim@kccc.org](mailto:daehyun.kim@kccc.org)
+문의: [c.creative.chic@gmail.com](mailto:c.creative.chic@gmail.com)

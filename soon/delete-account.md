@@ -22,7 +22,7 @@ soon 앱 사용자는 본인의 계정과 모든 데이터를 다음 두 가지 
 
 앱에 접근할 수 없는 경우, 아래 이메일로 요청해주세요.
 
-**이메일**: [daehyun.kim@kccc.org](mailto:daehyun.kim@kccc.org)
+**이메일**: [c.creative.chic@gmail.com](mailto:c.creative.chic@gmail.com)
 
 요청 시 다음 정보를 포함해주세요:
 - 본인 CCC 계정 ID 또는 가입 시 등록한 이메일
@@ -70,7 +70,7 @@ soon 앱 사용자는 본인의 계정과 모든 데이터를 다음 두 가지 
 
 탈퇴 절차나 데이터 삭제와 관련된 모든 문의:
 
-- 이메일: [daehyun.kim@kccc.org](mailto:daehyun.kim@kccc.org)
+- 이메일: [c.creative.chic@gmail.com](mailto:c.creative.chic@gmail.com)
 
 ---
 
