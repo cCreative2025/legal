@@ -15,6 +15,10 @@ cCreative2025에서 운영하는 앱·서비스의 법적 문서 모음.
 - [개인정보처리방침](./reviewtok/privacy.md)
 - [계정·데이터 삭제 방법](./reviewtok/delete-account.md)
 
+### [review-tok-extension](./review-tok-extension/) — 쇼핑몰 리뷰생성기 (크롬 확장 프로그램)
+
+- [개인정보처리방침](./review-tok-extension/privacy.md)
+
 ---
 
 문의: [c.creative.chic@gmail.com](mailto:c.creative.chic@gmail.com)
