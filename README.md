@@ -9,10 +9,11 @@ cCreative2025에서 운영하는 앱·서비스의 법적 문서 모음.
 - [개인정보처리방침](./soon/privacy.md)
 - [계정·데이터 삭제 방법](./soon/delete-account.md)
 
-### [reviewtok](./reviewtok/) — 리뷰톡 (토스 앱 내 리뷰 관리 미니앱)
+### [reviewtok](./reviewtok/) — 리뷰톡 (토스 미니앱 및 iOS·Android 앱)
 
 - [이용약관](./reviewtok/terms.md)
 - [개인정보처리방침](./reviewtok/privacy.md)
+- [카카오 로그인 개인정보 동의항목](./reviewtok/kakao-consent.md)
 - [계정·데이터 삭제 방법](./reviewtok/delete-account.md)
 
 ### [review-tok](./review-tok/) — 리뷰톡 리뷰어 (리뷰 캠페인 참여 앱)
