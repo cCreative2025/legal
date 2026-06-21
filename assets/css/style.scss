@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* cayman 헤더의 'View on GitHub'·다운로드 버튼 숨김 — 레포에 여러 서비스 문서가 함께 있어 노출 방지 */
+.page-header .btn {
+  display: none;
+}
