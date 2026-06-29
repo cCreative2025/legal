@@ -29,6 +29,10 @@ cCreative2025에서 운영하는 앱·서비스의 법적 문서 모음.
 
 - [홈페이지 신청 개인정보 수집·이용 동의](./moin/privacy.md)
 
+### [pickly](./pickly/) — 픽하다 (스크린샷·링크 정리 앱)
+
+- [개인정보처리방침](./pickly/privacy.md)
+
 ---
 
 문의: [c.creative.chic@gmail.com](mailto:c.creative.chic@gmail.com)
