@@ -6,7 +6,7 @@
 
 - **상호**: 라운지스(Loungees)
 - **대표자**: 김대현
-- **이메일**: c.creative.chic@gmail.com
+- **이메일**: support@loungees.net
 
 ---
 
@@ -51,7 +51,7 @@
 
 ## 7. 문의
 
-개인정보 관련 문의: **c.creative.chic@gmail.com**
+개인정보 관련 문의: **support@loungees.net**
 
 ## 8. 변경 고지
 
@@ -66,7 +66,7 @@
 **Loungees** (Representative: Daehyun Kim, the "Operator") operates the screenshot & link organizer app **"Pickly"** (the "Service"). **Pickly does not collect or transmit any personal data.** All data is stored only on the user's device.
 
 - **Operator**: Loungees
-- **Email**: c.creative.chic@gmail.com
+- **Email**: support@loungees.net
 
 ## 1. Information We Collect
 
@@ -107,6 +107,6 @@ Pickly collects no personal data and is suitable for all ages (4+).
 
 ## 7. Contact
 
-For privacy inquiries: **c.creative.chic@gmail.com**
+For privacy inquiries: **support@loungees.net**
 
 [← 픽하다 / Pickly](./)
