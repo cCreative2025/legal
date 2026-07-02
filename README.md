@@ -33,6 +33,10 @@ cCreative2025에서 운영하는 앱·서비스의 법적 문서 모음.
 
 - [개인정보처리방침](./pickly/privacy.md)
 
+### [loungees-office](./loungees-office/) — 라운지스 오피스 (운영자 전용 내부 도구)
+
+- [개인정보처리방침](./loungees-office/privacy.md)
+
 ---
 
 문의: [c.creative.chic@gmail.com](mailto:c.creative.chic@gmail.com)
