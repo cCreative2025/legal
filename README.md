@@ -16,6 +16,12 @@ cCreative2025에서 운영하는 앱·서비스의 법적 문서 모음.
 - [카카오 로그인 개인정보 동의항목](./reviewtok/kakao-consent.md)
 - [계정·데이터 삭제 방법](./reviewtok/delete-account.md)
 
+### [hamo](./hamo/) — 하모 (찬양팀·밴드 합주 악보 앱)
+
+- [이용약관](./hamo/terms.md)
+- [개인정보처리방침](./hamo/privacy.md)
+- [계정·데이터 삭제 방법](./hamo/delete-account.md)
+
 ### [review-tok](./review-tok/) — 리뷰톡 리뷰어 (리뷰 캠페인 참여 앱)
 
 - [개인정보 수집·이용 동의](./review-tok/collect-consent.md)
