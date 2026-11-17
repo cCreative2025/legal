@@ -1,8 +1,8 @@
-# 하루말씀 개인정보처리방침
+# 풍성한삶 개인정보처리방침
 
-**시행일**: 2026년 11월 15일 (이전 버전: 2026년 11월 11일)
+**시행일**: 2026년 11월 17일 (이전 버전: 2026년 11월 15일, 2026년 11월 11일)
 
-**라운지스(Loungees)**(대표자: 김대현, 이하 "운영자")는 큐티 노트 앱 **"하루말씀"**(이하 "서비스")을 운영합니다. 하루말씀은 **회원가입·로그인이 없는 앱**입니다. 이용자가 적은 묵상 내용(관찰·해석·적용·기도)은 이용자의 기기 안에만 저장되며 서버로 보내지 않습니다. 다만 '함께 큐티 챌린지'와 익명 묵상 통계를 위해 아래의 최소한의 정보를 서버에 둡니다.
+**라운지스(Loungees)**(대표자: 김대현, 이하 "운영자")는 큐티 노트 앱 **"풍성한삶"**(구 "하루말씀", 이하 "서비스")을 운영합니다. 풍성한삶은 **로그인 없이 쓸 수 있는 앱**입니다. 로그인하지 않으면 이용자가 적은 묵상 내용(관찰·해석·적용·실천 한 줄·기도)은 이용자의 기기 안에만 저장되며 서버로 보내지 않습니다. 이용자가 **'기록 백업 · 기기 연동'을 위해 구글 또는 애플로 로그인하고 동의한 경우에만** 묵상 내용을 서버에 보관합니다. 그 밖에 '함께 큐티 챌린지'와 익명 묵상 통계를 위해 아래의 최소한의 정보를 서버에 둡니다.
 
 - **상호**: 라운지스(Loungees)
 - **대표자**: 김대현
@@ -12,11 +12,11 @@
 
 ## 1. 수집하는 정보
 
-하루말씀은 **이름, 이메일, 전화번호, 위치, 연락처, 광고 식별자를 수집하지 않습니다.** 광고를 넣지 않으며, 분석·추적 도구도 사용하지 않습니다.
+풍성한삶은 **전화번호, 위치, 연락처, 광고 식별자를 수집하지 않습니다.** 광고를 넣지 않으며, 분석·추적 도구도 사용하지 않습니다. 이름·이메일은 이용자가 구글로 로그인한 경우에만 구글이 전달한 범위에서 보관합니다(1-라).
 
-### 가. 기기 안에만 저장되는 정보 (서버로 보내지 않음)
+### 가. 기기 안에만 저장되는 정보 (로그인하지 않으면 서버로 보내지 않음)
 
-관찰·해석·적용·기도 기록, 알림 시간과 화면 설정.
+관찰·해석·적용·실천 한 줄·기도 기록, 알림 시간과 화면 설정.
 
 ### 나. 모든 이용자 — 익명 묵상 통계
 
@@ -38,6 +38,17 @@
 
 챌린지는 **만 14세 이상**만 참여할 수 있으며, 참여 전에 앱에서 수집·이용 동의를 받습니다. 동의하지 않아도 혼자 큐티하는 기능은 모두 쓸 수 있습니다.
 
+### 라. '기록 백업 · 기기 연동'을 위해 로그인한 이용자 (선택, 동의 시)
+
+| 항목 | 목적 |
+|---|---|
+| 로그인 계정 식별자(구글·애플이 주는 고유 번호), 로그인 방식 | 같은 사람의 여러 기기를 하나로 묶기 |
+| 구글로 로그인한 경우: 구글이 전달하는 이메일 주소·이름·프로필 사진 | 로그인 계정 확인(앱 화면에 쓰지 않음) |
+| 애플로 로그인한 경우: 이름·이메일을 요청하지 않음 | — |
+| 묵상 노트(관찰·해석·적용·실천 한 줄·기도), 묵상을 마쳤는지·실천했는지, 그날 본 묵상 길라잡이 종류와 성경 번역, 고친 시각 | 서버 백업, 폰·패드·맥 사이의 기록 맞추기 |
+
+묵상 노트에는 **신앙에 관한 내용(민감정보)**이 담길 수 있으므로, 로그인하기 전에 앱에서 **별도로 동의**를 받습니다. 로그인 백업은 **만 14세 이상**만 쓸 수 있습니다. 로그인하지 않아도 모든 큐티 기능을 쓸 수 있습니다. 서버에 보관한 묵상 노트는 운영자가 열람하지 않으며, 백업·기기 연동 외의 목적으로 쓰지 않습니다.
+
 ## 2. 기기 권한 사용
 
 | 권한 | 사용 목적 |
@@ -56,7 +67,8 @@
 
 ## 5. 보관 및 삭제
 
-- 기기 안의 묵상 기록은 **앱을 삭제하면 함께 삭제**되며 운영자도 되살릴 수 없습니다. 앱 안에서 하나씩 지울 수도 있습니다.
+- 기기 안의 묵상 기록은 **앱을 삭제하면 함께 삭제**됩니다. 로그인 백업을 쓰지 않았다면 운영자도 되살릴 수 없습니다. 앱 안에서 하나씩 지울 수도 있으며, 로그인한 경우 지운 기록은 서버와 다른 기기에서도 지워집니다.
+- 로그인 백업 정보(1-라)는 앱의 **'나 > 기록 백업 · 기기 연동 > 계정 삭제'를 누르면 즉시 삭제**됩니다(기기 안의 기록은 남음). 로그아웃만 하면 서버의 백업은 그대로 보관되며, 다시 로그인하면 이어서 쓸 수 있습니다.
 - 챌린지 정보(닉네임, 캠퍼스, 그룹 참여)는 앱의 **'챌린지 그만두기'를 누르면 즉시 삭제**됩니다. 그룹에 남은 사람이 없으면 그룹도 함께 삭제됩니다.
 - 익명 묵상 통계(1-나)는 서비스 운영 기간 동안 보관합니다. 삭제를 원하시면 support@loungees.net 으로 요청해 주세요.
 - 기기의 백업(iCloud, Google 백업 등)을 켜 둔 경우, 앱 데이터가 그 백업에 포함될 수 있으며 이는 이용자의 기기·계정 설정에 따릅니다.
@@ -67,20 +79,21 @@
 
 | 수탁자 | 맡기는 일 |
 |---|---|
-| Supabase, Inc. | 서버·데이터베이스 운영(1-나, 1-다 정보 보관) |
+| Supabase, Inc. | 서버·데이터베이스·로그인 운영(1-나, 1-다, 1-라 정보 보관) |
+| Google LLC, Apple Inc. | 이용자가 고른 경우 로그인 인증(각 회사의 개인정보처리방침에 따름) |
 | Expo(650 Industries, Inc.) | 앱 업데이트 배포 |
 
 ## 7. 아동의 개인정보
 
-혼자 큐티하는 기능은 연령과 관계없이 쓸 수 있습니다. 닉네임 등을 받는 '함께 큐티 챌린지'는 만 14세 이상만 참여할 수 있으며, 만 14세 미만 아동의 개인정보는 수집하지 않습니다.
+혼자 큐티하는 기능은 연령과 관계없이 쓸 수 있습니다. 닉네임 등을 받는 '함께 큐티 챌린지'와 '기록 백업 · 기기 연동'(로그인)은 만 14세 이상만 쓸 수 있으며, 만 14세 미만 아동의 개인정보는 수집하지 않습니다.
 
 ## 8. 이용자의 권리
 
-이용자는 언제든 챌린지 정보를 앱에서 고치거나('프로필 수정') 삭제('챌린지 그만두기')할 수 있고, 그 밖의 열람·정정·삭제·처리정지는 아래 이메일로 요청할 수 있습니다.
+이용자는 언제든 챌린지 정보를 앱에서 고치거나('프로필 수정') 삭제('챌린지 그만두기')할 수 있고, 로그인 백업은 '계정 삭제'로 지우거나 동의를 철회할 수 있습니다. 그 밖의 열람·정정·삭제·처리정지는 아래 이메일로 요청할 수 있습니다.
 
 ## 9. 방침 변경
 
-로그인, 기록 백업, 구독 결제처럼 정보를 기기 밖에 두는 기능을 추가하거나 운영 주체가 바뀌는 경우, 시행 전에 본 방침을 개정하고 앱과 이 페이지에서 알립니다.
+구독 결제처럼 정보를 새로 서버에 두는 기능을 추가하거나 운영 주체가 바뀌는 경우, 시행 전에 본 방침을 개정하고 앱과 이 페이지에서 알립니다.
 
 ## 10. 문의 (개인정보 보호책임자)
 
@@ -88,10 +101,12 @@
 
 ---
 
-# Haru Malsseum Privacy Policy (English summary)
+# Pungseonghan Sam (formerly Haru Malsseum) Privacy Policy (English summary)
 
-Haru Malsseum is a daily Bible meditation (QT) notebook with **no accounts, no ads and no analytics or tracking**. Your meditation notes, reminder time and settings stay on your device and are never sent to us.
+Pungseonghan Sam is a daily Bible meditation (QT) notebook with **no ads and no analytics or tracking**, usable without an account. Unless you sign in, your meditation notes, reminder time and settings stay on your device and are never sent to us.
+
+- **Optional backup & sync (14+, with separate consent):** if you sign in with Google or Apple, your meditation notes (which may include religious content) are stored on our server to back them up and sync your devices, together with the account identifier from Google/Apple (and, for Google, the email, name and photo Google provides; Apple sign-in requests no name or email). "Delete account" in the app removes this server data immediately.
 
 - **All users (anonymous):** a random device key created by the app, OS type, app version, the dates you saved a meditation and whether you marked the application as practiced. This is used for streaks and anonymous usage counts and is not linked to your identity.
 - **Group challenge (optional, 14+ only, with consent):** nickname, optional campus, the groups you create or join, and your meditation dates/streak, visible only to members of your groups. Tapping "Leave challenge" deletes this data immediately.
-- Servers are run by Supabase, Inc.; app updates are delivered by Expo. We never sell or share your data. Contact: support@loungees.net
+- Servers and sign-in are run by Supabase, Inc. (with Google/Apple as sign-in providers); app updates are delivered by Expo. We never sell or share your data. Contact: support@loungees.net
